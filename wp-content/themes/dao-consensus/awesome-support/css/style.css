@@ -1,0 +1,72 @@
+.wpas-table {
+    border-spacing: 0 15px;
+}
+.wpas-user-profile {
+    margin-right: 10px;
+}
+.wpas-user-profile img {
+    border-radius: 50%;
+}
+button.wpas-btn.wpas-btn-default {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: block;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    max-height: 54px;
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+    outline: 0;
+    -webkit-transition: color .2s, background-color .2s;
+    -o-transition: color .2s, background-color .2s;
+    transition: color .2s, background-color .2s;
+    -webkit-tap-highlight-color: transparent;
+    padding: 12px 36px;
+    line-height: 22.5px;
+    border-radius: 10px;
+    z-index: 1;
+    color: #fff;
+    background-color: #1e6bae;
+    margin: 0 auto;
+}
+.wpas-uploader-dropzone {
+    border: 2px dashed gray;
+    border-radius: 10px;
+}
+.wpas-uploader-dropzone:hover {
+    border-color: #1e6bae !important;
+}
+span.wpas-label.wpas-label-status {
+    padding: 2.5px 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+}
+.wpas.wpas-submit-ticket #wpas_title_wrapper {
+    margin-bottom: 10px;
+}
+.wpas.wpas-submit-ticket input#wpas_title {
+    padding: 15px;
+    width: 100%;
+    border: 1.5px solid #afaeb8;
+    min-height: 44px;
+    border-radius: 12px;
+    outline: none;
+}
+.wpas.wpas-submit-ticket input#wpas_title:focus {
+    border-color: #1e6bae;
+}

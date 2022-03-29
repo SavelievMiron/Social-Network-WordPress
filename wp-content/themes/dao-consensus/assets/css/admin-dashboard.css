@@ -1,0 +1,31 @@
+.dao_dashboard_widget_statistics {
+
+}
+
+.tabs {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.tabs button {
+    padding: 5px 20px;
+    border-radius: 0;
+    border: 2px solid grey;
+    cursor: pointer;
+}
+
+.tabs button.active,
+.tabs button:focus {
+    border-color: black !important;
+}
+
+.tab-content.hide {
+    display: none !important;
+}
+
+.tab-content .tab-content__row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}

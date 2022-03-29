@@ -1,0 +1,5 @@
+[05-Oct-2021 13:51:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/vhosts/sailet.kz/dao.sailet.pro/wp-content/themes/dao-consensus/inc/template-tags.php on line 179
+[05-Oct-2021 13:51:52 UTC] PHP Notice:  Undefined offset: 3 in /var/www/vhosts/sailet.kz/dao.sailet.pro/wp-content/themes/dao-consensus/inc/template-tags.php on line 179
+[05-Oct-2021 15:13:40 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/vhosts/sailet.kz/dao.sailet.pro/wp-content/plugins/awesome-support/includes/functions-templating.php on line 1586
+[05-Oct-2021 15:15:15 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/vhosts/sailet.kz/dao.sailet.pro/wp-content/plugins/awesome-support/includes/functions-templating.php on line 1586
+[05-Oct-2021 15:16:54 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/vhosts/sailet.kz/dao.sailet.pro/wp-content/plugins/awesome-support/includes/functions-templating.php on line 1586
